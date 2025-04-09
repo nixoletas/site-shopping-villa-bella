@@ -25,7 +25,7 @@ This is a landing page for a fictional shopping mall
 
 1. Clone the repository:
 ```bash
-git clone [REPOSITORY_URL]
+git clone https://github.com/nixoletas/site-shopping-villa-bella.git
 ```
 
 2. Install dependencies:
